@@ -1,6 +1,6 @@
 # Alpha Notice — MeAnima
 
-*Плейсхолдеры: `meanima.support@gmail.com`, `[MINIMUM_AGE]` — заменить перед публичным запуском.*
+*Документ подготовлен для этапа закрытой альфы MeAnima.*
 
 ---
 
